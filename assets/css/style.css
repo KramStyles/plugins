@@ -1,0 +1,53 @@
+body{
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+.navbar-custom{
+    background-color:#86be3f !important;
+    font-weight: bold;
+}
+
+.navbar-custom a{
+    color:#fff !important;
+    transition: .5s all linear !important;
+
+}
+
+.navbar-custom a:hover{
+    color:#555 !important;
+
+}
+
+
+.card-custom{
+    border-color: #86be3f;
+}
+
+.card-header-custom{
+    background-color: #86be3f;
+}
+
+.card-header-custom a{
+    color: #fff;
+}
+
+.color-set{
+    background-color:#86be3f;
+    color:white;
+}
+
+.color-set-default{
+    background-color: #343a40;
+    color:white;
+}
+
+input {
+    margin: 10px;
+}
+
+.w-40 {
+    border-radius:5px;
+    resize: none;
+    background: aliceblue;
+    height:200px !important;
+}
+
